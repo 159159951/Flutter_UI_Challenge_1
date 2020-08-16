@@ -19,9 +19,7 @@ flutter run
 
 
 ## Screenshoots
-<img src="https://github.com/159159951/Flutter_UI_Challenge_1/blob/master/git_res/Screenshot_20200816-145244.jpg?raw=true" width="30%">
-
-<img src="https://github.com/159159951/Flutter_UI_Challenge_1/blob/master/git_res/Screenshot_20200816-145306.jpg?raw=true" width="30%">
+<img src="https://github.com/159159951/Flutter_UI_Challenge_1/blob/master/git_res/Screenshot_20200816-145244.jpg?raw=true" width="30%"> <img src="https://github.com/159159951/Flutter_UI_Challenge_1/blob/master/git_res/Screenshot_20200816-145306.jpg?raw=true" width="30%">
 
 <img src="https://github.com/159159951/Flutter_UI_Challenge_1/blob/master/git_res/Screenshot_20200816-145316.jpg?raw=true" width="30%">
 
