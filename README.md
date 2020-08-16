@@ -21,13 +21,14 @@ flutter run
 ## Screenshoots
 <img src="https://github.com/159159951/Flutter_UI_Challenge_1/blob/master/git_res/Screenshot_20200816-145244.jpg?raw=true" width="30%">
 
+<img src="https://github.com/159159951/Flutter_UI_Challenge_1/blob/master/git_res/Screenshot_20200816-145306.jpg?raw=true" width="30%">
 
-![Screenshoots1](https://github.com/159159951/Flutter_UI_Challenge_1/blob/master/git_res/Screenshot_20200816-145244.jpg?raw=true){ width=50% height=50% }
-![Screenshoots2](https://github.com/159159951/Flutter_UI_Challenge_1/blob/master/git_res/Screenshot_20200816-145306.jpg?raw=true){ width=50% height=50% }
-![Screenshoots3](https://github.com/159159951/Flutter_UI_Challenge_1/blob/master/git_res/Screenshot_20200816-145316.jpg?raw=true){ width=50% height=50% }
-![Screenshoots4](https://github.com/159159951/Flutter_UI_Challenge_1/blob/master/git_res/Screenshot_20200816-145322.jpg?raw=true){ width=50% height=50% }
-![Screenshoots5](https://github.com/159159951/Flutter_UI_Challenge_1/blob/master/git_res/Screenshot_20200816-145327.jpg?raw=true){ width=50% height=50% }
-![Screenshoots6](https://github.com/159159951/Flutter_UI_Challenge_1/blob/master/git_res/Screenshot_20200816-145333.jpg?raw=true){ width=50% height=50% }
+<img src="https://github.com/159159951/Flutter_UI_Challenge_1/blob/master/git_res/Screenshot_20200816-145316.jpg?raw=true" width="30%">
 
+<img src="https://github.com/159159951/Flutter_UI_Challenge_1/blob/master/git_res/Screenshot_20200816-145322.jpg?raw=true" width="30%">
+
+<img src="https://github.com/159159951/Flutter_UI_Challenge_1/blob/master/git_res/Screenshot_20200816-145327.jpg?raw=true" width="30%">
+
+<img src="https://github.com/159159951/Flutter_UI_Challenge_1/blob/master/git_res/Screenshot_20200816-145333.jpg?raw=true" width="30%">
 
 ## Have a nice day!
