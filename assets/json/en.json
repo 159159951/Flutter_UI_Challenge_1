@@ -1,0 +1,12 @@
+{
+  "err_can_not_conn": "Can not connect to server!\nPress to retry!",
+  "statistic": "Statistic",
+  "map_image_title": "Locations with Confirmed nCoV Cases",
+  "total_confirm": "Total Confirmed",
+  "total_confirm_by_country": "Confirmed Cases by Country/Region",
+  "total_confirm_by_city": "Confirmed Cases by City, Province/State",
+  "total_deads": "Total Deaths",
+  "total_recoved": "Total Recovered",
+  "update_time": "Last Updated At:",
+  "data_up_to_date_message": "Your data is being the latest"
+}

@@ -1,0 +1,12 @@
+{
+  "err_can_not_conn": "Không thể kết nối tới máy chủ!\nBấm vào đây để thử lại",
+  "statistic": "Thống Kê",
+  "map_image_title": "Những địa điểm có vi rút nCoV",
+  "total_confirm": "Tổng Số Ca Nhiễm",
+  "total_confirm_by_country": "Tổng số người nhiễm bệnh tính theo quốc gia",
+  "total_confirm_by_city": "Tổng số người nhiễm bệnh tính theo thành phố",
+  "total_deads": "Số người tử vong",
+  "total_recoved": "Số người khỏi bệnh",
+  "update_time": "Dữ liệu được cập nhật vào lúc:",
+  "data_up_to_date_message": "Dữ liệu của bạn đang là mới nhất."
+}

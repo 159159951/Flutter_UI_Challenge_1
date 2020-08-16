@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1084090654502-2di5gmsarhrsqgpvm0231auk69atpvn4.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1084090654502-2di5gmsarhrsqgpvm0231auk69atpvn4</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>1084090654502-s4t1gc364sk0en47n37khdn50j5549d5.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyB1vlcQC9SFaUc1inWuV5h61JD76lPxfSE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1084090654502</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>hl.wuhan</string>
+	<key>PROJECT_ID</key>
+	<string>corona-24h</string>
+	<key>STORAGE_BUCKET</key>
+	<string>corona-24h.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1084090654502:ios:3829d5665caea90d3febe7</string>
+	<key>DATABASE_URL</key>
+	<string>https://corona-24h.firebaseio.com</string>
+</dict>
+</plist>

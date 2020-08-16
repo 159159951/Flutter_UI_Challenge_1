@@ -1,0 +1,12 @@
+{
+  "err_can_not_conn": "无法连接到服务器\n点击重试",
+  "statistic": "统计",
+  "map_image_title": "确诊nCoV病例的地点",
+  "total_confirm": "受感染的总人数",
+  "total_confirm_by_country": "按国家划分的总感染人数",
+  "total_confirm_by_city": "按城市划分的总感染人数",
+  "total_deads": "死亡人数",
+  "total_recoved": "人们治愈",
+  "update_time": "数据在以下位置更新：",
+  "data_up_to_date_message": "您的數據是最新的"
+}
